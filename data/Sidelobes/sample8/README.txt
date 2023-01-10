@@ -1,0 +1,13 @@
+Data extracted from ASKAP EMU Pilot Survey (SB 9442)
+
+Some images were not further considered:  
+
+12 (DUPLICATE OF 9)
+13 (DUPLICATE OF 9) 
+16 (DUPLICATE OF 15)
+17 (DUPLICATE OF 15)   
+19 (DUPLICATE OF 18)   
+21 (DUPLICATE OF 20)   
+23 (CUTOUT, NO SIDELOBES PRESENT) 
+28 (DUPLICATE OF 27)      
+29 (DUPLICATE OF 27)   

@@ -1,0 +1,4 @@
+outs:
+- md5: e6776b0bea31a6b84f77ca3466c4a8dd
+  size: 10420
+  path: mask_sidelobe0030.json

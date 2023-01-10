@@ -1,0 +1,4 @@
+outs:
+- md5: 618c95fdd068f9c36bce2259560e48bc
+  size: 144000
+  path: mask_sidelobe0037_obj3.fits
