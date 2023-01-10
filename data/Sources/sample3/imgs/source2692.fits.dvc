@@ -1,0 +1,5 @@
+outs:
+- md5: 3e7c391c8ec1c1473c2f57add130f557
+  size: 80640
+  path: source2692.fits
+  isexec: true

@@ -1,0 +1,4 @@
+outs:
+- md5: a616ca918bc0cf4f23817862283e4f24
+  size: 850
+  path: source3306.reg

@@ -1,0 +1,5 @@
+outs:
+- md5: cab2ce08849398386a73f856624363cb
+  size: 80640
+  path: source3822.fits
+  isexec: true

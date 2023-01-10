@@ -1,0 +1,4 @@
+outs:
+- md5: f42259e19501e01b61089fc10eec84ab
+  size: 149760
+  path: mask_source1500_obj1.fits

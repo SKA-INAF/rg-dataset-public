@@ -1,0 +1,4 @@
+outs:
+- md5: 67dd7b6df17f64bd2c414647ca9d6050
+  size: 146880
+  path: mask_source1111_obj3.fits

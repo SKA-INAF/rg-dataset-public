@@ -1,0 +1,4 @@
+outs:
+- md5: 337d2ad93997ac53239430662c149a36
+  size: 3268
+  path: mask_source2021.json

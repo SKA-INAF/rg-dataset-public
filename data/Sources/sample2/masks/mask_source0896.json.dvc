@@ -1,0 +1,4 @@
+outs:
+- md5: 11222c28968e547367acf32687723ce5
+  size: 2048
+  path: mask_source0896.json

@@ -1,0 +1,4 @@
+outs:
+- md5: 227f341dff0d65ded7dd20faf33df1ce
+  size: 118080
+  path: source2038.fits

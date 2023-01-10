@@ -1,0 +1,4 @@
+outs:
+- md5: bad63167a1bae8837ac705ec42ac0ae3
+  size: 2018
+  path: mask_source2022.json

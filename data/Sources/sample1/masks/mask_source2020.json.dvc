@@ -1,0 +1,4 @@
+outs:
+- md5: ca59aeec5d1e0dfea51a99f1ce4f4ab2
+  size: 2045
+  path: mask_source2020.json

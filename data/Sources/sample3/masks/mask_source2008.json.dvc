@@ -1,0 +1,4 @@
+outs:
+- md5: ba4e2ea0c44ce6a47e1f132ea2fc645e
+  size: 848
+  path: mask_source2008.json

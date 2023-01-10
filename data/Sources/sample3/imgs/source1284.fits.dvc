@@ -1,0 +1,5 @@
+outs:
+- md5: bedbac309afbf373e913fef2c81d4639
+  size: 80640
+  path: source1284.fits
+  isexec: true

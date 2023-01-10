@@ -1,0 +1,4 @@
+outs:
+- md5: 2619d38e90b3e16d6d65f730b8e315c9
+  size: 187200
+  path: mask_source2009_obj1.fits

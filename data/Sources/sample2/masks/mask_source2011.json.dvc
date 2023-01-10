@@ -1,0 +1,4 @@
+outs:
+- md5: 19249dc1095de25b47c93bc94eaec665
+  size: 2032
+  path: mask_source2011.json

@@ -1,0 +1,4 @@
+outs:
+- md5: 4fd90c48e50c91e66dadbe131bf7f15b
+  size: 609
+  path: source2048.reg
