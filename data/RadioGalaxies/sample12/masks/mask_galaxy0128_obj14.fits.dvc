@@ -1,0 +1,4 @@
+outs:
+- md5: 6caff8761094528b82bc291bee923968
+  size: 144000
+  path: mask_galaxy0128_obj14.fits

@@ -1,0 +1,4 @@
+outs:
+- md5: ba659dcf2e700f71a126b09db61d2cc2
+  size: 3306
+  path: mask_galaxy0084.json

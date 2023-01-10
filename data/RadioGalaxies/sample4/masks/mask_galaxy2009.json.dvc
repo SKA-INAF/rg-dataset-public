@@ -1,0 +1,4 @@
+outs:
+- md5: 13d3c543e770feb2787363d02e863295
+  size: 924
+  path: mask_galaxy2009.json

@@ -1,0 +1,4 @@
+outs:
+- md5: a98062c9161178d5e1f0b85b66ff1c0f
+  size: 1502
+  path: mask_galaxy2008.json
